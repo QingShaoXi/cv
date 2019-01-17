@@ -20,3 +20,6 @@
     执行npm run dev开始开发
 
     修改完后执行npm run pub发布到ghpages
+	
+展示简历
+    https://www.cnblogs.com/MuYunyun/p/6082359.html
