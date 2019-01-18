@@ -1,4 +1,4 @@
-#我的个人简历
+#我的个人简历（curriculum vitae）
 #https://qingshaoxi.github.io/resume.github.io/
 
 一份优雅简约的简历
