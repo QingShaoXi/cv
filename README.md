@@ -1,5 +1,5 @@
 #我的个人简历（curriculum vitae）
-#https://qingshaoxi.github.io/resume.github.io/
+#https://qingshaoxi.github.io/cv
 
 如何制作一份优雅简约的简历？
 
